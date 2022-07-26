@@ -16,7 +16,6 @@ The Progressbar95 Mail game but in a terminal. Made by Catafrancia.
     - Alpha builds are offered via the alpha branch.
 
 ## Available in these languages:
-![progresscli95](https://user-images.githubusercontent.com/74492478/178005127-75dda163-ef70-4a8a-9f4f-f75dfa4d9b82.gif)
 - American English (en_US) - [Catafrancia](https://github.com/Catafrancia123)
 
 ## Installation
