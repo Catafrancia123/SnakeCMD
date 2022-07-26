@@ -2,6 +2,8 @@
 
 The Progressbar95 Mail game but in a terminal. Made by Catafrancia. 
 
+Game is broken please dont download it yet.
+
 *Progress on in your command line interface!*
 
 ## Build Versions
