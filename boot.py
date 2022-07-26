@@ -1,9 +1,9 @@
-from saveloader import detectSave, detectSettings, loadSystemSave, loadSettingsSave
+from saveload import detectSave, detectSettings, loadSystemSave, loadSettingsSave
 from rich import print as rprint
 from clear import clear
-from checkbadge import calculateBadge
-from player import startup
-from lang import langset
+from checklevel import calculateBadge
+from player] import startup
+from translations import langset
 import sys
 import os
 import random
