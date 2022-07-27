@@ -2,7 +2,7 @@ from saveload import detectSave, detectSettings, loadSystemSave, loadSettingsSav
 from rich import print as rprint
 from clear import clear
 from checklevel import calculateBadge
-from player] import startup
+from player import startup
 from translations import langset
 import sys
 import os
